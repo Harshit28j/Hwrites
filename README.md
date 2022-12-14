@@ -1,5 +1,5 @@
 # Hwrites
-The program Hwrites can simulate your writing style. It’s designed to imitate your writing style by using artificial intelligence and text mining.  I'm excited to announce a new breakthrough in machine learning. Hwrites is designed to provide a writing assistant. The program is able to mimic your writing style through AI.
+# Hwrites
 
 All you have to do is just install the program in any folder
 To print in your writing
